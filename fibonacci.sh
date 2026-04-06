@@ -12,4 +12,4 @@ do
     fn=$((a + b))
     a=$b
     b=$fn
-end
+done
